@@ -116,3 +116,5 @@
 <br>
 <p align="center"><i>EchoFind © 2026 CTRL+AI Studios. Todos os direitos reservados / All rights reserved.</i></p> 
 
+
+preciso do botao de comprar na mesma linha mas com o texto de (sem marca dagua) tanto no plano mensal que ja tem esse texto quanto no plano anual
