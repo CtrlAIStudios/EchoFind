@@ -1,27 +1,85 @@
-# YTMaster - Curadoria e Gerenciamento de Playlists 🎵
+<div align="center">
 
-[📥 **BAIXAR O YTMaster (Versão Mais Recente)**](https://github.com/JordanCTRLAI/YTMaster/releases/latest)
+# 🔴 YTMaster
+**Curadoria Inteligente, Indexação e Automação de Playlists**
 
-Bem-vindo ao **YTMaster**, um aplicativo desktop desenvolvido para ajudar usuários a organizarem suas descobertas musicais de forma inteligente e automatizada.
+[![Baixar YTMaster](https://img.shields.io/badge/📥_BAIXAR_AGORA-Versão_Mais_Recente-E50914?style=for-the-badge&logo=windows)](https://github.com/JordanCTRLAI/YTMaster/releases/latest)
 
-## 📌 O que o aplicativo faz?
-O YTMaster é uma ferramenta de curadoria de conteúdo. Ele permite que os usuários conectem suas contas do YouTube para:
-- Criar novas playlists automaticamente a partir de seleções de áudio.
-- Organizar e gerenciar a biblioteca de playlists diretamente do computador.
-- Otimizar o tempo de curadoria de mídia, usando a API oficial do YouTube de forma segura.
+*Transforme horas de vídeo em playlists oficiais e organizadas na sua conta do YouTube em questão de minutos.*
 
-O aplicativo roda 100% localmente na sua máquina, garantindo que o processamento da sua curadoria seja privado e rápido.
-
-## 🔐 Privacidade e Termos
-Nós levamos a segurança dos seus dados do Google muito a sério. O YTMaster apenas solicita acesso para **gerenciar suas playlists**, e não lê, edita ou exclui seus vídeos ou comentários.
-
-Para mais detalhes sobre como lidamos com a autenticação e seus dados, por favor, leia nossos documentos oficiais:
-- [Política de Privacidade](privacidade.md)
-- [Termos de Serviço](termos.md)
-
-## 📞 Contato e Suporte
-Se você tiver dúvidas sobre o funcionamento do aplicativo, integração com o Google ou precisar de suporte técnico, entre em contato com a equipe de desenvolvimento:
-**Email:** ctrlaistudios@gmail.com
+</div>
 
 ---
+
+## 🎧 A Revolução na Curadoria e Descoberta Musical
+
+Você já assistiu a um show ao vivo, um set de música eletrônica ou um DVD acústico de 2 horas no YouTube e quis salvar aquelas faixas específicas para ouvir depois, mas perdeu a paciência caçando os nomes das músicas nos comentários?
+
+O **YTMaster** foi desenvolvido para resolver exatamente esse problema. Ele é uma ferramenta de indexação e descoberta de metadados focada na criação de playlists. Nossa engine analisa o espectro sonoro de conteúdos longos, mapeia os metadados de cada faixa e organiza tudo perfeitamente na sua conta do Google.
+
+### 🆚 Por que escolher o YTMaster? (Além dos Gerenciadores Comuns)
+Existem muitas interfaces e gerenciadores de links na comunidade, como o **Stacher**, o **Tartube** e o **Open Video Downloader**. No entanto, a maioria dessas ferramentas são passivas: elas não interagem com o ecossistema do YouTube e não ajudam você a organizar sua biblioteca oficial.
+
+O YTMaster preenche essa lacuna com sua tecnologia ativa. Ele é a única ferramenta do mercado com a função de **Indexação de Mixtapes**, focada inteiramente em enriquecer a sua conta do YouTube com playlists automatizadas e precisas.
+
+---
+
+### ✨ O Diferencial Exclusivo: "Analisar Mixtape"
+Esqueça a busca manual e as anotações no bloco de notas. Com a nossa função de extração de metadados profundos, o YTMaster:
+1. **Ouve e Indexa:** Analisa o espectro de áudio do conteúdo enviado.
+2. **Reconhecimento de Metadados:** Identifica cada faixa individualmente usando nossa engine de reconhecimento inteligente (cruzando dados de artista e nome da música).
+3. **Sincronização Oficial:** Conecta-se com segurança à sua conta do Google através da API Oficial do YouTube.
+4. **Auto-Playlist Instantânea:** Usa os metadados extraídos para buscar as músicas oficiais e criar uma playlist perfeitamente organizada direto no seu canal.
+
+---
+
+## 🚀 Principais Recursos da Interface
+
+O YTMaster possui uma interface moderna (Dark Mode nativo) focada em automação e produtividade:
+
+- 🎯 **Modos de Mapeamento:** Escolha entre Vídeo Único, Playlist Completa, Canal Inteiro ou a poderosa ferramenta "Analisar Mixtape".
+- 🏷️ **Auto-Tagging Inteligente:** As faixas são indexadas e catalogadas automaticamente.
+- 📋 **Gerenciador de Fila Robusto:** Adicione dezenas de links para análise em lote e deixe o YTMaster trabalhar na extração em segundo plano.
+- 🧹 **Gestão de Cache:** Ferramentas nativas para limpar dados temporários de processamento.
+
+---
+
+## 🛠️ Como Funciona?
+
+<div align="center">
+
+**1. Insira o Link do Show** ➡️ **2. Clique em "Analisar Mixtape"** ➡️ **3. Playlist Criada no seu YouTube!**
+
+</div>
+
+Em poucos minutos, o que levaria uma tarde inteira de curadoria manual estará pronto e sincronizado como uma nova playlist na sua conta, pronta para você ouvir no seu YouTube ou YouTube Music.
+
+---
+
+## 🔐 Privacidade e Segurança em Primeiro Lugar
+
+O YTMaster foi construído seguindo rigorosamente as políticas de segurança e privacidade. O processamento de espectro de áudio é feito localmente para garantir velocidade e privacidade. 
+
+Em relação à integração com a sua conta do Google:
+- O YTMaster solicita e utiliza **apenas** o escopo necessário para **gerenciamento e criação de playlists** (`https://www.googleapis.com/auth/youtube`).
+- O aplicativo **NÃO** acessa seu histórico, **NÃO** lê seus comentários, **NÃO** exclui seus vídeos e **NÃO** compartilha seus dados com servidores de terceiros.
+- Todo o fluxo de autenticação é feito via OAuth 2.0 seguro, diretamente com o Google.
+
+Para total transparência técnica e jurídica, consulte nossa documentação oficial:
+- 📄 [Política de Privacidade](privacidade.md)
+- ⚖️ [Termos de Serviço](termos.md)
+
+---
+
+<div align="center">
+
+### 📞 Contato e Suporte
+Dúvidas sobre a criação de playlists, integração com a API do YouTube ou suporte técnico? Nossa equipe está à disposição.
+
+✉️ **Email de Suporte:** [ctrlaistudios@gmail.com](mailto:ctrlaistudios@gmail.com)
+
+<br>
+
 *YTMaster © 2026 Ctrl+AI Studios. Todos os direitos reservados.*
+
+</div>
