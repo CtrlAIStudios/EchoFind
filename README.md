@@ -92,12 +92,12 @@
 🇧🇷 O YTMaster foi construído seguindo rigorosamente as políticas de segurança. O processamento de espectro de áudio é feito localmente para garantir velocidade e privacidade. Em relação à integração com a sua conta do Google:
 - O aplicativo solicita e utiliza **apenas** o escopo necessário para gerenciamento e criação de playlists (`https://www.googleapis.com/auth/youtube`).
 - Nós **NÃO** acessamos seu histórico, comentários ou excluímos vídeos, e **NÃO** compartilhamos dados com terceiros. Todo o fluxo é via OAuth 2.0 seguro.
-- 📄 <a href="privacidade.md">Política de Privacidade</a> | ⚖️ <a href="termos.md">Termos de Serviço</a>
+- 📄 <a href="privacidade.html">Política de Privacidade</a> | ⚖️ <a href="termos.html">Termos de Serviço</a>
 
 🇺🇸 *YTMaster was built strictly following security policies. Audio spectrum processing is done locally to ensure speed and privacy. Regarding integration with your Google account:*
 - *The application requests and uses **only** the necessary scope for playlist management and creation (`https://www.googleapis.com/auth/youtube`).*
 - *We DO **NOT** access your history, comments, or delete videos, and we DO **NOT** share data with third parties. The entire flow is via secure OAuth 2.0.*
-- 📄 *<a href="privacidade.md">Privacy Policy</a>* | ⚖️ *<a href="termos.md">Terms of Service</a>*
+- 📄 *<a href="privacidade.html">Privacy Policy</a>* | ⚖️ *<a href="termos.html">Terms of Service</a>*
 
 ---
 
