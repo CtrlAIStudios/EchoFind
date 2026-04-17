@@ -1,4 +1,4 @@
-<h1 align="center">🔴EchoFind</h1>
+
 <p align="center">
   <b>Pesquisa Inteligente, Indexação e Automação de Playlists</b><br>
   <i>Intelligent Curation, Indexing, and Playlist Automation</i>
