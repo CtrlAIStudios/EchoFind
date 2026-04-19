@@ -1,4 +1,4 @@
-
+<h1 align="center">🔴EchoFind</h1>
 <p align="center">
   <b>Pesquisa Inteligente, Indexação e Automação de Playlists</b><br>
   <i>Intelligent Curation, Indexing, and Playlist Automation</i>
@@ -13,17 +13,18 @@
   </a>
 </p>
 
-<p align="center">
+<!-- Botões na mesma linha com indicação de "Sem marca d'água" -->
+<div align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
   <a href="https://pay.kiwify.com.br/EY0k66X">
     <img src="https://img.shields.io/badge/⭐_ASSINE_O_PRO-MENSAL-2D3748?style=for-the-badge&logo=credit-card" alt="Assine o PRO - Mensal">
   </a>
   <a href="https://pay.kiwify.com.br/83d2Z6Y">
-    <img src="https://img.shields.io/badge/⭐_ASSINE_O_PRO-MENSAL-2D3748?style=for-the-badge&logo=credit-card" alt="Assine o PRO - Mensal (Sem marca d'agua)">
+    <img src="https://img.shields.io/badge/⭐_ASSINE_O_PRO-MENSAL_(Sem_marca_d'água)-E50914?style=for-the-badge&logo=credit-card" alt="Assine o PRO - Mensal (Sem marca d'água)">
   </a>
   <a href="https://pay.kiwify.com.br/RqSpjRo">
-    <img src="https://img.shields.io/badge/⭐_ASSINE_O_PRO-ANUAL-2D3748?style=for-the-badge&logo=credit-card" alt="Assine o PRO - Anual (Sem marca d'agua)">
+    <img src="https://img.shields.io/badge/⭐_ASSINE_O_PRO-ANUAL_(Sem_marca_d'água)-E50914?style=for-the-badge&logo=credit-card" alt="Assine o PRO - Anual (Sem marca d'água)">
   </a>
-</p>
+</div>
 
 <p align="center">
   🇧🇷 Transforme horas de vídeo em playlists oficiais e organizadas na sua conta do YouTube em questão de minutos.<br>
@@ -114,3 +115,6 @@
 <p align="center">✉️ <b>Email:</b> <a href="mailto:ctrlaistudios@gmail.com">ctrlaistudios@gmail.com</a></p>
 <br>
 <p align="center"><i>EchoFind © 2026 CTRL+AI Studios. Todos os direitos reservados / All rights reserved.</i></p> 
+
+
+preciso do botao de comprar na mesma linha mas com o texto de (sem marca dagua) tanto no plano mensal que ja tem esse texto quanto no plano anual
